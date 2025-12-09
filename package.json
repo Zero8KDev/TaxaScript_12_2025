@@ -1,0 +1,13 @@
+{
+    "name": "imposto-de-renda-em-javascript",
+    "version": "1.0.0",
+    "description": "Cálculo de imposto de renda em NodeJS",
+    "main": "main.js",
+    "type": "commonjs",
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
